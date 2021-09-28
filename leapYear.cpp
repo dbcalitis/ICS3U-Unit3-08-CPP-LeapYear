@@ -13,8 +13,8 @@ int main() {
     int userYear;
 
     // input
-        std::cout << "Please enter the year: ";
-        std::cin >> userYearString;
+    std::cout << "Please enter the year: ";
+    std::cin >> userYearString;
 
     try {
         /* https://stackoverflow.com/questions
